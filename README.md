@@ -135,3 +135,26 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+
+
+---
+
+## 📖 Cite this work
+
+If you use or reference this repository, please cite it as follows:
+
+> **Yazdan Ghanavati**, *PCA Reveals Hidden Structure — 4-Cluster Demo*,  
+> GitHub repository, 2025.  
+> Available at: [https://github.com/Yazdan-Ghanavati/pca-visual-demo-4clusters](https://github.com/Yazdan-Ghanavati/pca-visual-demo-4clusters)
+
+or in **BibTeX** format:
+
+```bibtex
+@misc{ghanavati2025pca4clusters,
+  author       = {Yazdan Ghanavati},
+  title        = {PCA Reveals Hidden Structure — 4-Cluster Demo},
+  year         = {2025},
+  howpublished = {\url{https://github.com/Yazdan-Ghanavati/pca-visual-demo-4clusters}},
+  note         = {Demonstration of PCA revealing hidden dimensions that mislead K-Means}
+}
+```
